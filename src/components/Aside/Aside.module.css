@@ -1,0 +1,4 @@
+.aside {
+    grid-area: a;
+    background-color: green;
+}
